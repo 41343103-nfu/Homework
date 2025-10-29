@@ -2,12 +2,18 @@
 
 ## 解題說明
 
-## Algorithm Design & Programming
+### 問題描述:
 
-## 效能分析(Analysis)
+### 解題策略:
 
-## 測試與驗證(Testing and Proving)
+## 程式實作
 
-## 效能量測(Measuring)
+## 效能分析
 
-## 心得討論 
+### 時間複雜度:
+   
+### 空間複雜度:
+  
+## 測試與驗證
+
+## 申論及開發報告
