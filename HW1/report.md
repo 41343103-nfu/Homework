@@ -370,9 +370,9 @@ int main() {
 - Insert → O(log n) 
 - Height → O(n) 
 2.
- Delete → O(log n)
+- Delete → O(log n)
 ### 空間複雜度:
-O(n)
+- O(n)
 
 ## 測試與驗證
 ```shell
