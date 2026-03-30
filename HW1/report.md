@@ -3,13 +3,13 @@
 ## 解題說明
 
 ### 問題描述:
-MinPQ 是抽象類別 
-MinHeap 繼承 MinPQ 
-實作這4個函式： 
-- IsEmpty()
-- Top()
-- Push()
-- Pop()
+- MinPQ 是抽象類別 
+- MinHeap 繼承 MinPQ 
+- 實作： 
+IsEmpty()
+Top()
+Push()
+Pop()
 
 ### 解題策略:
 
